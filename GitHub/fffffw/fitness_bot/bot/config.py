@@ -1,7 +1,0 @@
-BOT_TOKEN = "8799937119:AAEVTqEHaoaxm7rn3v_i8OwwQawxlW8lOlE"
-
-OPENAI_KEY = "[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]"
-
-ADMIN_IDS = [6394052470]
-
-WEBAPP_URL = "https://yourdomain.com"
